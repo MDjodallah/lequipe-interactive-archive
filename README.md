@@ -126,8 +126,8 @@ This project was a highly collaborative effort bridging Software Engineering and
 
 ```bash
 # Clone the repository
-git clone https://github.com/mdjodallah/interactive-sports-archive.git
-cd interactive-sports-archive
+git clone https://github.com/mdjodallah/lequipe-interactive-archive.git
+cd lequipe-interactive-archive
 
 # Install dependencies
 pnpm install
